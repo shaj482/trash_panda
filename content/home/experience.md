@@ -43,7 +43,7 @@ experience:
     company_url: ''
     company_logo: org-x
     location: Aberystwyth, Wales
-    date_start: '2019-01-28'
+    date_start: '2019-02-01'
     date_end: '2019-06-05'
     description: Convened Keys to International Politics, a preperatory course for international students seeking entry into the International Politics undergraduate degree.
     
@@ -53,7 +53,7 @@ experience:
     company_logo: org-x
     location: Aberystwyth, Wales
     date_start: '2013-09-28'
-    date_end: '2019-06-05'
+    date_end: '2019-01-27'
     description: Teaching on a range of undergraduate modules, including: War, Strategy, & Intelligence; A War on the Mind: Propaganda and Secret Intelligence from the Great War to the 21st Century; The Making of the Modern World: War Peace and Revolution since 1789, Behind the Headlines; Politics in the Age of Two World Wars
 
 design:
