@@ -22,28 +22,39 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Teaching Fellow in International Relations
+    company: University of Leicester
     company_url: ''
     company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+    location: Leicester, England
+    date_start: '2019-09-01'
     date_end: ''
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Undergraduate and Postgraduate Teaching in Politics and International Relations
+        * Module redesign and development
+        * Dissertation supervision (UG and PGT)
+        * Ethics Lead within the School of History, Politics and International Relations
+        * Previous service roles: Admissions Tutor, Joint Degree Co-ordinator
 
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Academic Subject Tutor in International Politics
+    company: International English Centre, Aberystwyth University
     company_url: ''
     company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: Aberystwyth, Wales
+    date_start: '2019-01-28'
+    date_end: '2019-06-05'
+    description: Convened Keys to International Politics, a preperatory course for international students seeking entry into the International Politics undergraduate degree.
+    
+  - title: Part Time Teaching Staff in International Politics
+    company: Department of International Politics, Aberystwyth University
+    company_url: ''
+    company_logo: org-x
+    location: Aberystwyth, Wales
+    date_start: '2013-09-28'
+    date_end: '2019-06-05'
+    description: Teaching on a range of undergraduate modules, including: War, Strategy, & Intelligence; A War on the Mind: Propaganda and Secret Intelligence from the Great War to the 21st Century; The Making of the Modern World: War Peace and Revolution since 1789, Behind the Headlines; Politics in the Age of Two World Wars
 
 design:
   columns: '2'
